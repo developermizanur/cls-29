@@ -1,0 +1,26 @@
+/* defult-css */
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.container{
+    width: 1240px;
+    margin: auto;
+}
+/* XAMPP Control Panel*/
+
+h2{
+    padding: 50px 0px 0px 100px;
+    color: blue;
+}
+.xampp{
+	padding-top: 20px;
+}
+
+.wordpress{
+	padding-top: 20px;
+    margin-bottom: 20px;
+}
